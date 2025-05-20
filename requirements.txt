@@ -2,3 +2,7 @@ sentence-transformers
 psycopg2-binary 
 faiss-cpu 
 pandas
+fastapi 
+uvicorn
+httpx
+ollama
